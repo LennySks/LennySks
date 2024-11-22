@@ -10,7 +10,7 @@
 
 
 ## 👩‍💻 About Me
-<p align="left">🎓 Full Stack Developer Graduate from KdG Hogeschool<br>💼 Open to work and new opportunities<br>📚 A lifelong learner passionate about continuously improving my skills<br>🎵 Music producer with 6+ years of experience<br>🐧 Linux enthusiast (Yes, I use Arch BTW 😄)</p>
+<p align="left">🎓 Full Stack Developer Graduate @ KdG Hogeschool<br>💼 Open to work and new opportunities<br>📚 A lifelong learner passionate about continuously improving my skills<br>🎵 Music producer with 6+ years of experience<br>🐧 Linux enthusiast (Yes, I use Arch BTW 😄)</p>
 
 ## 🛠 Languages and Tools
 
